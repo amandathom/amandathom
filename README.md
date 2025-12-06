@@ -29,7 +29,8 @@ I am currently growing my technical skills as a Break Through Tech Fellow, where
 ## 🚀 Featured Projects
 ### [🔬 EEG-Driven Cognitive Load & Engagement Prediction](https://github.com/Chambers-Capital-Ventures-Inc/challenger-insight)
 
-**Break Through Tech AI Studio Fall 2025*
+#### *Break Through Tech AI Studio Fall 2025*
+
 **What We Did:**  
 Preprocessed EEG brainwave signals and combined them with survey responses, then applied dimensionality reduction and classical ML models to predict learner engagement and cognitive load during training modules.
 
