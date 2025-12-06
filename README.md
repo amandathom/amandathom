@@ -1,4 +1,4 @@
-# Hi, I'm Amanda Thomas 👋
+# Hi, I'm Amanda👋
 
 ## About Me
 Hi, I'm Amanda, a junior studying Electrical Engineering at the University of Notre Dame. I'm a problem-solver who loves making things work, whether that's building circuits, analyzing data, or designing embedded systems. I'm passionate about applying my AI/ML skills toward creating solution where technology can address human needs. 
