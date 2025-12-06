@@ -16,20 +16,19 @@ I am currently growing my technical skills as a Break Through Tech Fellow, where
 - 🧩 Drawn to interdisciplinary work that blends technical rigor, human factors, and thoughtful design to build solutions that are both innovative and genuinely beneficial to people.
 
 ## 🛠 Tech Stack
-**Languages:** C++, Python, MATLAB
-**Libraries** Pandas, NumPy, Matplot++, scikit-learn, 
-**Tools:** Git, GitHub, Jupyter Notebook,VS Code, Streamlit
-
+**Languages:** C++, Python, MATLAB  
+**Libraries** Pandas, NumPy, Matplot++, scikit-learn,  
+**Tools:** Git, GitHub, Jupyter Notebook,VS Code, Streamlit  
 
 ## 📫 How to Reach Me
 - **Email:** amandalt0116@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/amandathomass
 
-
 ## 🚀 Featured Projects
 ### [🔬 EEG-Driven Cognitive Load & Engagement Prediction](https://github.com/Chambers-Capital-Ventures-Inc/challenger-insight)
 
-#### *Break Through Tech AI Studio Fall 2025*
+### 🔬 EEG-Driven Cognitive Load & Engagement Prediction
+**Break Through Tech AI Studio – Fall 2025**
 
 **What We Did:**  
 Preprocessed EEG brainwave signals and combined them with survey responses, then applied dimensionality reduction and classical ML models to predict learner engagement and cognitive load during training modules.
@@ -40,6 +39,7 @@ Python, NumPy, Pandas, scikit-learn, Google Colab, Streamlit
 **Result:**  
 Built a lightweight model that could flag moments of disengagement, providing early indicators of cognitive overload and helping inform adaptive content recommendations for more effective learning experiences.
 
-## ⚡ Fun Fact
-When I'm not in school or work-mode you’ll probably find me on a long walk, kayaking at a beautiful lake, playing video games, reading a good book, or eating great food!
+**⚡ Fun Fact:**  
+When I'm not in school or work-mode, you’ll probably find me on a long walk, kayaking at a beautiful lake, playing video games, reading a good book, or eating great food!
+
 
