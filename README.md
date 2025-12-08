@@ -38,7 +38,21 @@ Python, NumPy, Pandas, scikit-learn, Google Colab, Streamlit
 **Result:**  
 Built a lightweight model that could flag moments of disengagement, providing early indicators of cognitive overload and helping inform adaptive content recommendations for more effective learning experiences.
 
-**⚡ Fun Fact:**  
+### 🏘️ NYC Airbnb Review Value Prediction
+
+**Machine Learning Regression Project – 2025**
+
+**What I Did:**  
+Explored and cleaned NYC Airbnb data, engineered features (host metrics, room type, text fields), and framed the task as a supervised regression problem. Trained and evaluated a Linear Regression model using an 80/20 split.
+
+**Tools:**  
+Python, Pandas, NumPy, scikit-learn, Jupyter Notebook
+
+**Result:**  
+Achieved RMSE ≈ 0.35 and R² ≈ 0.54. The model showed moderate predictive power, performing best on higher review value scores while highlighting areas for improvement in mid-range predictions.
+
+
+## **⚡ Fun Fact:**  
 When I'm not in school or work-mode, you’ll probably find me on a long walk, kayaking at a beautiful lake, playing video games, reading a good book, or eating great food!
 
 
