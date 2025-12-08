@@ -38,7 +38,7 @@ Python, NumPy, Pandas, scikit-learn, Google Colab, Streamlit
 **Result:**  
 Built a lightweight model that could flag moments of disengagement, providing early indicators of cognitive overload and helping inform adaptive content recommendations for more effective learning experiences.
 
-### 🏘️ NYC Airbnb Review Value Prediction
+### 🏘️ [NYC Airbnb Review Value Prediction](https://github.com/amandathom/Predicting-Airbnb-Review-Scores-Using-Machine-Learning)
 
 **Machine Learning Regression Project – 2025**
 
